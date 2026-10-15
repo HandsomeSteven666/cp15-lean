@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and source deposit on Zenodo."
+type: software
+title: "CP15: Lean formalization of optimality and global uniqueness"
+version: "2026.10.15"
+date-released: 2026-10-15
+authors:
+  - family-names: Yang
+    given-names: Xiuzhi
+    affiliation: Anhui University of Science and Technology
+repository-code: "https://github.com/HandsomeSteven666/cp15-lean"
+url: "https://doi.org/10.5281/zenodo.23319941"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "The optimal packing of fifteen congruent disks in a disk is unique"
+  authors:
+    - family-names: Yang
+      given-names: Xiuzhi
+  doi: "10.5281/zenodo.23319941"
+  year: 2026
+  publisher:
+    name: Zenodo

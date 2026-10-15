@@ -1,0 +1,80 @@
+import CP15.ComponentAscent
+import CP15.CandidateInnerCycle
+import CP15.ActualInnerCycle
+import CP15.CandidateOuterCycle
+import CP15.ActualOuterCycle
+import CP15.GlobalUniquenessEndpoint
+import CP15.AlternatingCoordinates
+import CP15.GlobalUniquenessLocalIsolation
+import CP15.GlobalUniquenessOrbitClosed
+import CP15.CandidateLinearizedKernel
+import CP15.UniqueExtensionLocalGeometry
+import CP15.UniqueExtensionSeedCoordinates
+import CP15.UniqueExtensionGrid
+import CP15.UniqueExtensionOrbit
+
+#print axioms CP15.uniqueOnePointExtension_of_uniquePointFromOthers
+#print axioms CP15.no_boundary_increase_into_candidate_of_extension
+#print axioms CP15.no_boundary_increase_into_unique_boundary
+#print axioms CP15.uniqueBoundaryPointFromOthers_of_centeredCongruent
+#print axioms CP15.all_good_of_bounded_ascent
+#print axioms CP15.exists_component_selected_with_maxSum
+#print axioms CP15.exists_terminal_component_selected_with_cap
+#print axioms CP15.no_increasing_single_center_segment
+#print axioms CP15.active_contact_of_component_maxSum
+#print axioms CP15.strict_radial_blocker_of_component_maxSum
+#print axioms CP15.two_sided_contacts_of_component_maxSum
+#print axioms CP15.componentBoundaryStep_rank_increase
+#print axioms CP15.terminal_component_selectedPacking15
+#print axioms CP15.terminal_component_K10m0
+#print axioms CP15.terminal_component_scalar_equality
+#print axioms CP15.actual_inner_indices_complete
+#print axioms CP15.actual_boundary_order_of_gap_data
+#print axioms CP15.alternating_outer_gap_equality
+#print axioms CP15.SelectedPacking15.K10m0_actual_gap_equalities
+#print axioms CP15.terminal_component_actual_angular_equalities
+#print axioms CP15.candidate_inner_cycle_step
+#print axioms CP15.candidate_inner_cycle_radius
+#print axioms CP15.actual_inner_complex_cycle
+#print axioms CP15.exists_rotation_matching_inner_pentagon
+#print axioms CP15.terminal_component_inner_rotation
+#print axioms CP15.candidateAllIndex_bijective
+#print axioms CP15.actualOuterPairIndex_bijective
+#print axioms CP15.actualAllIndex_bijective
+#print axioms CP15.planeRotation
+#print axioms CP15.actual_contact_pairs_match_candidate
+#print axioms CP15.terminal_component_congruent_to_candidate
+#print axioms CP15.all_optimal_packings_congruent_of_candidate_rigidity_and_extension
+#print axioms CP15.candidateRigidityReflection_involutive
+#print axioms CP15.candidate_five_edge_linearized_rotation_mode
+#print axioms CP15.Candidate.ratio_local_bounds
+#print axioms CP15.seed_boundary_point_unique_within_radius_two
+#print axioms CP15.candidate_seed_coordinates
+#print axioms CP15.candidate_point12_unique_if_near
+#print axioms CP15.gridCellHasDisposition_all
+#print axioms CP15.candidate_point12_unique_from_grid
+#print axioms CP15.candidate_outer_end_unique_extension
+#print axioms CP15.candidate_outer_start_unique_extension
+#print axioms CP15.candidate_inner_center_not_boundary
+#print axioms CP15.candidate_unique_boundary_extension
+#print axioms CP15.candidate_outer_pair_angle_lower
+#print axioms CP15.candidate_outer_pair_angle_eq
+#print axioms CP15.alternating_actual_angle_budget_variable_outer
+#print axioms CP15.local_alternating_variable_outer_rigidity
+#print axioms CP15.local_alternating_pattern_congruent
+#print axioms CP15.eventually_strictPolarArg
+#print axioms CP15.eventually_localAlternatingHypotheses
+#print axioms CP15.eventually_feasible_congruent_of_localAlternatingReference
+#print axioms CP15.localAlternatingReference_congruent_and_isolated
+#print axioms CP15.isClosed_candidateCongruenceOrbit15
+#print axioms CP15.actual_inner_indices_complete
+#print axioms CP15.actual_boundary_order_of_gap_data
+#print axioms CP15.alternating_outer_gap_equality
+#print axioms CP15.SelectedPacking15.K10m0_actual_gap_equalities
+#print axioms CP15.terminal_component_actual_angular_equalities
+#print axioms CP15.all_optimal_packings_congruent_of_terminal_and_extension
+#print axioms CP15.all_optimal_packings_congruent_of_rep_rigidity_and_extension
+#print axioms CP15.all_optimal_packings_congruent_of_candidate_component_rigidity
+#print axioms CP15.candidate_is_terminal_for_component_ascent
+#print axioms CP15.exists_candidate_localAlternatingReference
+#print axioms CP15.global_unique_optimal_packing15
