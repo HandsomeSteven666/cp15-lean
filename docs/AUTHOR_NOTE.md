@@ -4,7 +4,7 @@
 
 I began an independent study of the optimal packing of fifteen equal disks in a disk in September 2026. On October 6, I submitted my manuscript, *The optimal packing of fifteen congruent disks in a disk is unique*, to *Discrete & Computational Geometry*. On October 15, I made the manuscript and accompanying materials public on [Zenodo](https://doi.org/10.5281/zenodo.23319941).
 
-I am an undergraduate at Anhui University of Science and Technology. I enrolled in 2024 and study ammunition engineering and explosive technology. My training is in engineering rather than mathematics. Bringing a geometric problem that interested me to this stage, and turning the arguments for optimality and global uniqueness into checkable proofs, has been a source of considerable joy.
+ My training is in engineering rather than mathematics. Bringing a geometric problem that interested me to this stage, and turning the arguments for optimality and global uniqueness into checkable proofs, has been a source of considerable joy.
 
 Today I learned that nor had publicly released [work covering fifteen, sixteen, seventeen, eighteen and twenty equal disks](https://nor-blog.pages.dev/posts/2026-10-11-circle-in-circle-packing-15-20/) on October 11. I am glad to see broader progress by someone who shares an interest in mathematics. I also felt disappointed to discover, after submitting my own manuscript, that related results had appeared before I made my preprint public. I value the experience of exploring and understanding this problem, and I do not want this repository to become an argument over credit.
 
